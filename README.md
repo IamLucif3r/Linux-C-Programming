@@ -55,7 +55,7 @@ Linux-C-Programming/
 - Install essential tools: `gcc`, `gdb`, `strace`, `ltrace`
 - Clone this repo:
   ```bash
-  git clone https://github.com/yourusername/Linux-C-Programming.git
+  git clone https://github.com/IamLucif3r/Linux-C-Programming.git
   cd Linux-C-Programming
   ```
 
